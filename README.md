@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses News API to show live news on verious topics like sports, buisness, science etc.
 
 ## Available Scripts
 

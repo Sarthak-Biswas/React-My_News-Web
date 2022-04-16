@@ -1,16 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'
 import loader from './loader.gif'
 
-export class Loader extends Component {
-  static propTypes = {}
+const Loader = ()=> {
 
-  render() {
     return (
       <div className="text-center">
           <img src={loader} alt="loading" />
       </div>
     )
-  }
 }
 
 export default Loader
